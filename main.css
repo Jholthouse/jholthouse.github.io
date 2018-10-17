@@ -9,6 +9,8 @@ body {
   padding: 30px 20px;
   text-align: center;
   align-content: center;
+  color: #7328FF;
+  background-color: #FFF4CB;
 }
 
 h1 {
@@ -34,5 +36,5 @@ portfolio entries */
 .portfolio-item {
 margin-top: 60px;
 padding: 40px;
-background-color: #f7f7f7;
+background-color: #FFFFFF;
 }
