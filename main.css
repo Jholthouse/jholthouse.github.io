@@ -10,7 +10,7 @@ body {
   text-align: center;
   align-content: center;
   color: #7328FF;
-  background-color: #FFF4CB;
+  background-color: #FFEC38;
 }
 
 h1 {
@@ -35,6 +35,8 @@ portfolio entries */
 
 .portfolio-item {
 margin-top: 60px;
+margin-left: 60px;
+margin-right: 60px;
 padding: 40px;
 background-color: #FFFFFF;
 }
