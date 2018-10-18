@@ -14,7 +14,11 @@ body {
 }
 
 h1 {
+  color: #7328FF;
   padding: 20px 0px 10px 0px;
+  text-decoration: underline none;
+  text-decoration-style: none;
+  text-shadow: 2px 2px #ff0000;
 }
 
 a {
@@ -35,8 +39,8 @@ portfolio entries */
 
 .portfolio-item {
 margin-top: 60px;
-margin-left: 60px;
-margin-right: 60px;
+margin-left: 155px;
+margin-right: 155px;
 padding: 40px;
 background-color: #FFFFFF;
 }
